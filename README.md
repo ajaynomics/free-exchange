@@ -1,2 +1,2 @@
 # free-exchange
-An application of the principles of free exchange to current issues affecting Canadians
+This repository will contain source materials related to this project.
