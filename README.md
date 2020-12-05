@@ -1,5 +1,7 @@
 # free-exchange
-This project is intended to culminate in a 'Canadian supplement and update' to _Sowell, Thomas. [Basic Economics](https://www.amazon.ca/Basic-Economics-Thomas-Sowell/dp/0465060730), 5d ed. (2015)_
+This project is intended to culminate in a 'Canadian supplement and update' to _Sowell, Thomas. [Basic Economics](https://www.amazon.ca/Basic-Economics-Thomas-Sowell/dp/0465060730), 5d ed. (2015)_.
+
+Status: summary of principles in progress of being compiled.
 
 * OVERVIEW
   * Chapter 1: What Is Economics?
@@ -28,6 +30,12 @@ This project is intended to culminate in a 'Canadian supplement and update' to _
       * Diverts resources away from economically valuable activity 
     * Price controls are stupid, but often politically expedient to sell a quick fix, with others left to deal with the consequences.
   * Chapter 4: An Overview of Prices 
+    * Economics is the analysis of the cause-and-effect relationships in an economy, and to discern the consequences of various ways of allocating scarce resources that have alternative uses.
+    * The analysis is complex because the reciprocal, systemic interactions between many different forces, like the interaction between billiard balls on a pool table after the opening shot. 
+    * Systemic causation: what each individual wants is obstructed and encouraged in part by the intentions of everyone else, and what emerges is something no one willed but is a fair proxy for what "we" want. Many economic fallacies are the result of ascribing intentional actions to outcomes rather than systemic causation.
+    * Systemically irrational outcomes can result from the collective effect of rational individual actions in light of the incentives created by policy in the marketplace. 
+    * Incentives versus goals: **people will usually do more for their own benefit than they will do for others**. This is why incentives matter, and goals do not. "Not enough" and "prohibitively expensive" are terms of judgment in light of goals, rather than an assessment of incentives.
+    * Scarcity and competition: invidiuals do not have to know they are competing with each other to drive scarcity. In fact this is a  benefit. Commerce is the world's most spoken language, and every day Americans transact with their political and ideological idols without even knowing it. Economic interdependece fosters political stability
 * PART II: INDUSTRY AND COMMERCE 
   * Chapter 5: The Rise and Fall of Businesses
   * Chapter 6: The Role of Profits–and Losses 
