@@ -38,7 +38,20 @@ Status: summary of principles in progress of being compiled.
     * Scarcity and competition: invidiuals do not have to know they are competing with each other to drive scarcity. In fact this is a  benefit. Commerce is the world's most spoken language, and every day Americans transact with their political and ideological idols without even knowing it. Economic interdependece fosters political stability
 * PART II: INDUSTRY AND COMMERCE 
   * Chapter 5: The Rise and Fall of Businesses
+    * Businesses are not a proxy for greed and profits. Half of businesses fail within four years.
+    * Just as companies rise and fall, so does profitability. Judging the "greed" of companies based on their peaks in profitability is nonsensical. Profitability is a derivative of the efficient allocation of scare resources, not a subjective selection by executives.
+    * Factors affecting changes in the profitability of businesses over time: social change, economic change, technological change, changes in business leadership, Many thriving businesses fail quickly once social changes take hold: A&P, US Steel, railroads, department stores.
   * Chapter 6: The Role of Profits–and Losses 
+    * Profits and losses are equally important in guiding resources to their most productive uses.
+    * Market competition, an unmonitored monitor, is the check on 'unreasonable' profits.
+    * A producer who does not respond to the market as well as its competitors will become less profitable. 
+      The producer will then adjust to conditions and improve profitability, cycling over time.
+    * Profit rates change over time, and are a reflection of productivity relative to other uses of resources in the economy. 
+  Judging a profit rate by itself is meaningless.
+      * The ideal size of a business depends on the alternative use for resources and changes over a time even in established industries. 
+        * Middlemen play an important role in matching producers and buyers. Less developed economies have less wealthy residents 
+    who cannot purchase at the same scale as in developed countries. Middlemen help to aggregate demand and leverage economies of scale.
+          Fewer middlemen than is appropriate in the circumstances means less selection, less competition, and _higher_ prices.
   * Chapter 7: The Economics of Big Business 
   * Chapter 8: Regulation and Anti-Trust Laws 
   * Chapter 9: Market and Non-Market Economies 
