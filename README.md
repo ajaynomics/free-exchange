@@ -53,6 +53,11 @@ Status: summary of principles in progress of being compiled.
     who cannot purchase at the same scale as in developed countries. Middlemen help to aggregate demand and leverage economies of scale.
           Fewer middlemen than is appropriate in the circumstances means less selection, less competition, and _higher_ prices.
   * Chapter 7: The Economics of Big Business 
+    * Corporations have allowed economies of scale to develop through limitation of liability and pooling of capital.
+    * Corporations have imperfect, federated power structures that allow shareholders to delegate control and govern by proxy.
+    * Most alleged monopolies are not in fact monopolies in substance but through creative characterization to fulfill political whim (Brown Shoes: monopoly in 'rubber-soled' shoes,
+      Microsoft (monopoly on 'Intel-based' computers). 
+    * Cartels usually collapse because of intense competition between competitive rivals, who try to circumvent unwritten understandings to personal advantage.
   * Chapter 8: Regulation and Anti-Trust Laws 
   * Chapter 9: Market and Non-Market Economies 
 * PART III: WORK AND PAY 
