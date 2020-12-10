@@ -55,10 +55,11 @@ Status: summary of principles in progress of being compiled.
   * Chapter 7: The Economics of Big Business 
     * Corporations have allowed economies of scale to develop through limitation of liability and pooling of capital.
     * Corporations have imperfect, federated power structures that allow shareholders to delegate control and govern by proxy.
-    * Most alleged monopolies are not in fact monopolies in substance but through creative characterization to fulfill political whim (Brown Shoes: monopoly in 'rubber-soled' shoes,
-      Microsoft (monopoly on 'Intel-based' computers). 
-    * Cartels usually collapse because of intense competition between competitive rivals, who try to circumvent unwritten understandings to personal advantage.
   * Chapter 8: Regulation and Anti-Trust Laws 
+    * Most alleged monopolies are not in fact monopolies in substance but through creative characterization to fulfill political whim (Brown Shoes: monopoly in 'rubber-soled' shoes,
+      Microsoft (monopoly on 'Intel-based' computers). Are the compared items truly 'the same'?
+    * Cartels usually collapse because of intense competition between competitive rivals, who try to circumvent unwritten understandings to personal advantage.
+    * Anti-trust laws that prevent restrictions on market activity are desirable. Modern anti-trust cases tend to be politically-driven and impair market decisions.
   * Chapter 9: Market and Non-Market Economies 
 * PART III: WORK AND PAY 
   * Chapter 10: Productivity and Pay 
