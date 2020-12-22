@@ -61,6 +61,8 @@ Status: summary of principles in progress of being compiled.
     * Cartels usually collapse because of intense competition between competitive rivals, who try to circumvent unwritten understandings to personal advantage.
     * Anti-trust laws that prevent restrictions on market activity are desirable. Modern anti-trust cases tend to be politically-driven and impair market decisions.
   * Chapter 9: Market and Non-Market Economies 
+    * Non-market entities do not have to respond to market forces, and are historically less efficient. 
+    * Every system has winners and losers. In the market, these incentives encourage changes in human behaviour to put resources to their best uses. In other systems, winners and losers are subject to political whim and other 'subjective' factors.
 * PART III: WORK AND PAY 
   * Chapter 10: Productivity and Pay 
   * Chapter 11: Minimum Wage Laws 
