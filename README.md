@@ -64,8 +64,23 @@ Status: summary of principles in progress of being compiled.
     * Non-market entities do not have to respond to market forces, and are historically less efficient. 
     * Every system has winners and losers. In the market, these incentives encourage changes in human behaviour to put resources to their best uses. In other systems, winners and losers are subject to political whim and other 'subjective' factors.
 * PART III: WORK AND PAY 
-  * Chapter 10: Productivity and Pay 
-  * Chapter 11: Minimum Wage Laws 
+  * Chapter 10: Productivity and Pay
+    * Labour is a resource, like any other, and its market price incentives humans to put resources to their best uses.
+    * To treat labour as a special resource is to artificially create winners and losers in a manner that impairs
+      putting resources to their best use, costing everyone.
+    * Notions of 'exploitation' or 'living wage' fail to understand that all spending decisions involve tradeoffs.
+      That's the definition of scarcity.
+    * Income 'distribution' ought not to be compared in percentage terms but in absolute terms. If everyone is better
+      off than they would be under alternative systems, what is wrong about some, who best align their actions with the
+      best use of resources, being better off, creating a virtuous cycle of prosperity?
+    * Lost in discussion about income distribution is the more important discussion about income mobility. To compare '
+      classes' of income is to compare the fortunes of non-existent people. Individual actors move through the classes
+      of income over time, and as long as that mobility exists, the distinction between classes of income is less
+      significant.
+    * The best way to prevent job discrimination is _not_ legislating standards, which allow bad actors to hide their
+      prejudice. In a free market, those that make business decisions on the basis of prejudices will lose out to the
+      competition, which can draw from a larger pool of qualified candidates.
+  * Chapter 11: Minimum Wage Laws
   * Chapter 12: Special Problems in Labor Markets 
 * PART IV: TIME AND RISK 
   * Chapter 13: Investment 
