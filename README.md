@@ -81,6 +81,23 @@ Status: summary of principles in progress of being compiled.
       prejudice. In a free market, those that make business decisions on the basis of prejudices will lose out to the
       competition, which can draw from a larger pool of qualified candidates.
   * Chapter 11: Minimum Wage Laws
+    * minimum wage laws make it illegal to pay less than the wage set by government
+    * benefits the worker whose wages are lifted without a corresponding increase in productivity
+    * impairs any underemployed person willing to do the same job for less than the minimum wage
+    * impairs all consumers who pay ultimately pay more for goods and services
+      * minimum wage laws create a _surplus_, diverting resources from their most efficient use
+    * **the real minimum wage is always $0**
+    * Example:
+      * Switzerland and Singapore have no minimum wage, and have very low unemployment
+      * Canada's unemployment rate is higher than the US, as is the general provincial minimum wage
+      * US jurisdictions with 'living wage' laws have higher unemployment than those that don't
+    * economists universally (> 85%) agree about the effects of minimum wage laws on unemployment
+      * but minimum wage laws are set by government, facing political considerations
+    * just as a price set below the market level leads to a deterioration of the quality of the product, minimum wage laws deteriorate the quality of the goods and services derived from labour subject to wage controls
+    * minimum wage laws generally have a _differential impact_ on minority groups
+      * _black Americans are impaired by minimum wage laws becuse they enable racists to hire less-productive workers without facing consequences in the market_
+      * without a minimum wage law, racist employers are hurting themselves by allowing their competitors to hire more productive, less-expensive workers
+      * minimum wage laws generally correlate with higher black unemployment
   * Chapter 12: Special Problems in Labor Markets 
 * PART IV: TIME AND RISK 
   * Chapter 13: Investment 
