@@ -144,6 +144,19 @@ Status: summary of principles in progress of being compiled.
               more productive, less-expensive workers
             * minimum wage laws generally correlate with higher black unemployment
     * Chapter 12: Special Problems in Labor Markets
+      * Because humans are complex beings subject to culture, welfare systems, and other subjective factors, labour presents challenges that don't exist with commodities
+        * The _unemployment rate_ is determined based on the number of people _seeking_ work, not the number of people _capable_ of work.
+          * Because humans transition between 'seeking work' and 'not seeking work' at times in their lives, the statistic could be misleading
+          * the unemployment rate could go 'down' because people are giving up on finding work
+      * When technology replaces human workers, the benefit of efficiencies to the broader population are diffuse, but the cost to displaced workers is intensive, creating a political interest that could shadow the economic interests
+        * the political calculus: will I win more 'worker' votes than I lose 'employer' votes
+      * Improving working conditions is the same thing as increasing wages
+         * Growth in per capita output is the best way to improve wages and working conditions
+      * Safety laws are justified to the extent they protect third-party interests (mud flaps, ok; airbags, not ok)
+      * Child labour laws emerged from an era when children were forced to work the mines, whereas today they are an artificial barrier to youth employment and learning, that is often advanced by labour unions who want to protect their membership from alternate sources of labour that may reduce wages.
+      * Policies such as mandated time off, caps on hours worked, etc, all represent an artificial misalocation of resources that have better uses
+      
+      
 * PART IV: TIME AND RISK
     * Chapter 13: Investment
     * Chapter 14: Stocks, Bonds and Insurance
