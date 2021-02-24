@@ -135,15 +135,92 @@ Status: summary of principles in progress of being compiled.
             * US jurisdictions with 'living wage' laws have higher unemployment than those that don't
         * economists universally (> 85%) agree about the effects of minimum wage laws on unemployment
             * but minimum wage laws are set by government, facing political considerations
-        * just as a price set below the market level leads to a deterioration of the quality of the product, minimum
-          wage laws deteriorate the quality of the goods and services derived from labour subject to wage controls
-        * minimum wage laws generally have a _differential impact_ on minority groups
-            * _black Americans are impaired by minimum wage laws becuse they enable racists to hire less-productive
-              workers without facing consequences in the market_
-            * without a minimum wage law, racist employers are hurting themselves by allowing their competitors to hire
-              more productive, less-expensive workers
-            * minimum wage laws generally correlate with higher black unemployment
-    * Chapter 12: Special Problems in Labor Markets
+      * just as a price set below the market level leads to a deterioration of the quality of the product, minimum wage
+        laws deteriorate the quality of the goods and services derived from labour subject to wage controls
+      * minimum wage laws generally have a _differential impact_ on minority groups
+          * _black Americans are impaired by minimum wage laws becuse they enable racists to hire less-productive
+            workers without facing consequences in the market_
+          * without a minimum wage law, racist employers are hurting themselves by allowing their competitors to hire
+            more productive, less-expensive workers
+          * minimum wage laws generally correlate with higher black unemployment
+  * Chapter 12: Special Problems in Labor Markets
+      * Unemployment Statistics
+          * unemployment statistics exclude children, and those who are unemployed by choice, such as housewives and
+            retired individuals, hospital patients, people serving in the military or prison inmates
+          * different countries have different 'full' employment rates depending on composition of the local economy
+          * _transient_ unemployment must be distinguished from _long-term_ unemployment
+          * unemployment due to technological displacement may be beneficial to society beyond immediate frictions
+      * Working Conditions
+          * better working conditions represent a benefit to the employee and form part of their remuneration
+          * therefore, **better working conditions meas less monetary pay**
+          * these initiatives are usually politically driven, _despite_ the economic consequences
+          * liberal economic policies that drive growth are the best way to make improvements _simultaneously_ for
+            workers and consumers
+          * Safety Laws
+              * third-party effects deserve consideration &ndash; there is a role for regulating road safety, mass
+                transit operations, and environmental effects
+              * beyond this, safety laws to protect the consumer represent _increased cost_ and _reduced choice_ for
+                those consumers, who do not have the option to purchase what they may consider a more optimal allocation
+                of resources
+              * 'safety' is a tradeoff consideration, not an objective standard
+          * Child Labor Laws
+              * child labor laws were historically passed to protect a vulnerable group unable to protect their own
+                interests
+              * modern child labor laws are typically union driven to exclude a source of potential competition
+              * rules against unpaid internships, for example, are keeping adolescents out of paying jobs in
+                airconditioned offices
+          * Hours of Work
+              * different countries have different cultures about work and vacation, and it makes it particularly
+                challenging to impose universal standards
+              * higher labor costs translate into reduced investment, reduced employment, and increased consumer costs
+          * Third World Countries
+              * developed countries have better conditions, period &ndash; there is not special reason to scrutinize the
+                lower labor standards in less developed countries
+              * the issue is which policies will allow the workers in poor countries to improve their prospects, rather
+                than 'match' the developed world
+              * wages and working conditions in developing countries improve when liberal economic policies drive
+                competition for local labor
+      * Collective Bargaining
+          * Employer Organizations
+              * historically, it was _employers_ tat organized to control pay and working conditions, similar to
+                baseball today
+              * that there are re-allocations between employers and employees does not mean that the losses to employees
+                are the most important economic effect, which remains efficient allocation on the whole
+              * whether employer-set rates are higher or lower than the market rate, the result is higher unemployment
+                because of the overall increase in inefficiency
+              * the biggest practical issue for these cartels is the incentive for members to break the agreements out
+                of self interest
+          * Labor Unions
+              * artificially higher wages means artifically higher prices to consumers, resulting to inefficient
+                allocation
+              * unions are accountable to their membership, not to those without a job willing to do the job without
+                additional benefits, or to society, that benefits from lower prices
+      * Exploitation
+          * there is no definition and it ultimately turns on a subjective opinion about what people 'deserve'
+          * left to market forces, allocation is driven by the best interest of the collective, not individual
+            subjective whim
+          * business owners face the brunt of losses in economic economic activity, not employees
+          * the real question is which mechanism is best situated to account for individual views on 'exploitation'
+              * in the market, each person votes with their dollars based on their views, and the invisible hand guides
+                the outcome
+              * through government, a small, vocal group coerces the broader population into a less-efficient
+                arrangement that does not reflect the interest of the people
+          * the best defence against exploitation is healthy competition in the marketplace, in which business owners
+            are in competition to hire workers
+          * Job Security
+              * job security rules are intended to reduce unemployment, but by increasing the cost of employment, they
+                increase unemployment
+              * the 'efficiency' of modern capitalism is the chase after what is new and better
+              * 'job-for-life' is not desirable for employees or for society &ndash; churn is a key driver of new ideas
+              * laws (ie, agriculture) that were enacted at a time of food security have long outlasted their usefulness
+                and today represent a subsidy to a political class
+      * Occupational Licensing
+          * licensing requirements are just another cost on labour that reduces employment and increases prices to
+            consumers
+          * legal and medical licensing represent the typical overgrowth of self-regulation into bodies that are
+            glorified unions protecting the interests of its constituencies
+          * whether licensing actually protects the consumers in proportion to their economic misallocation is the real
+            tradeoff question
 * PART IV: TIME AND RISK
     * Chapter 13: Investment
     * Chapter 14: Stocks, Bonds and Insurance
