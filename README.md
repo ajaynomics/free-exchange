@@ -221,8 +221,45 @@ Status: summary of principles in progress of being compiled.
             glorified unions protecting the interests of its constituencies
           * whether licensing actually protects the consumers in proportion to their economic misallocation is the real
             tradeoff question
-* PART IV: TIME AND RISK
-    * Chapter 13: Investment
+## PART IV: TIME AND RISK
+### Chapter 13: Investment
+#### Investments
+* Investments involve risks, because the future is uncertain, and those risks must be compensated to attract investment.
+* Investments that consumers value attract re-investment, and resources are re-allocated to their most efficient uses.
+#### Kinds of Investments
+* Human Capital
+  *  Education is an investment in human capital, but not all education is a wise investment.
+  *  In less developed countries, students who are the first in their family to pursue higher education are less likely to pursue economically valuable subject areas because they are also more rigorous, creating a glut of educated people with less econoimcally relevant skills.
+*  Financial Investments
+  *  Financial intermediaries create a market in which consumers can make investments that attract time and risk. Less-developed countries have less-developed financial intermediaries, and resources are allocated less efficiently.
+  *  Financial intermediaries are an easy target for political critics, because their products are complex, and narrative can overwhelm facts easily.
+#### Returns on Investment
+*  "Unearned Income"
+  * Compensation for financial intermediaries has historically been the subject of steretypes and persecution.
+  * Interest is compensation for the risk and delay of waiting for payment, and is as much a value delivered through the supply chain as the product itself.
+* Investment and Allocation
+  * In a frictionless market, the level of savings and the level of investment would be in equilibrium.
+  * In the real world, with transaction costs, the market is constantly adjusting towards equiibrium.
+  * The interest rate mechanism of the US Federal Reserve System is one level for human ajdustment.
+#### Speculation
+* Many markets are for products and services that already exist, but there are also many markets for products and services to exist on a future date.
+* Oil futures and other "speculation" are a form of risk management to bring price certainty to the consumer. But the farmer also values certainty in knowing what price they will receive in advance. 
+* Some focus on trading on future risk because they have specialized knowledge and skill that they can apply on behalf of others.
+* **Speculation is not gambling. Speculation is the opposite of gambling.** Speculation is about coping with inherent risk, gambling is about taking a risk.
+#### Inventories
+  *  Inventories are a substitute for the risk of lack of knowledge of the future. 
+#### Present Value
+- Prices and Present Values
+  * The present avlue of an asset is equal to its anticipated future benefits, discounted for delay.
+  * Receipt of a product or service (or payment) today may have a different market than 
+  * One concern with politics is that politicians generally only consider the near-term future of their decisions, and are incentivized to overlook longer-term benefits.
+- Natural Resources
+  * There is enough oil underground for centuries, but because of the cost and effort at discovery, there is a limited amount at any time. The price of oil reflects future delivery, including the cost of future knowledge regarding the discoveries of oil.
+  * As in any other industry, shortages lead to higher prices, attracting investiment, and lowering prices, adjusting to market equilibrium.
+
+
+
+
     * Chapter 14: Stocks, Bonds and Insurance
     * Chapter 15: Special Problems of Time and Risk
 * PART V: THE NATIONAL ECONOMY
