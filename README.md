@@ -247,21 +247,65 @@ Status: summary of principles in progress of being compiled.
 * Some focus on trading on future risk because they have specialized knowledge and skill that they can apply on behalf of others.
 * **Speculation is not gambling. Speculation is the opposite of gambling.** Speculation is about coping with inherent risk, gambling is about taking a risk.
 #### Inventories
-  *  Inventories are a substitute for the risk of lack of knowledge of the future. 
+
+* Inventories are a substitute for the risk of lack of knowledge of the future.
+
 #### Present Value
+
 - Prices and Present Values
-  * The present avlue of an asset is equal to its anticipated future benefits, discounted for delay.
-  * Receipt of a product or service (or payment) today may have a different market than 
-  * One concern with politics is that politicians generally only consider the near-term future of their decisions, and are incentivized to overlook longer-term benefits.
+    * The present avlue of an asset is equal to its anticipated future benefits, discounted for delay.
+    * Receipt of a product or service (or payment) today may have a different market than
+    * One concern with politics is that politicians generally only consider the near-term future of their decisions, and
+      are incentivized to overlook longer-term benefits.
 - Natural Resources
-  * There is enough oil underground for centuries, but because of the cost and effort at discovery, there is a limited amount at any time. The price of oil reflects future delivery, including the cost of future knowledge regarding the discoveries of oil.
-  * As in any other industry, shortages lead to higher prices, attracting investiment, and lowering prices, adjusting to market equilibrium.
+    * There is enough oil underground for centuries, but because of the cost and effort at discovery, there is a limited
+      amount at any time. The price of oil reflects future delivery, including the cost of future knowledge regarding
+      the discoveries of oil.
+    * As in any other industry, shortages lead to higher prices, attracting investiment, and lowering prices, adjusting
+      to market equilibrium.
 
+### Chapter 14: Stocks, Bonds and Insurance
 
+* Gains/losses reflected in prices for stocks and bonds are no different in concept than 'unrealized' gains/losses that
+  exist in real estate.
+* Gains must account for the time value of money and the related risks.
 
+#### Variable Returns Versus Fixed Returns
+
+* Stocks versus Bonds
+    * Bonds are different stocks because they are a commitment to pay fixed amounts on fixed dates, whereas stocks are
+      shares in the business and reflect the value of the business at a point in time.
+    * Venture capitalists are profitable at times, but they suffer major losses at other times (unlike bondholders).
+    * The degree of risk varies by investment and time period.
+* Risk and Time
+    * The stock market can make spectacular gains, or losses, depending the time period selected.
+* Risk and Diversification
+    * By risking in a portfolio of less-related investments, we hedge against both upside and downside.
+* Investing in Human Capital
+    * Volunteering and internships are an investment in human capital, foregoing immediate pay for future returns.
+    * There is no conceptual reason why humans cannot issue stocks and/or bonds in themselves (ie, okay for agents, why
+      not students?)
+
+#### Insurance
+
+* Insurance in the Marketplace
+    * Insurance is a meachanism to transfer risk to parties better suited to handle volatility
+    * Insurance companies are compensated for the loss-related payouts plus the profit to attract a competitive market
+* "Moral Hazard" and "Adverse Selection"
+    * insurance creates risks since the person suffering loss is no longer the person bearing the consequences of the
+      loss
+* Government Regulation
+    * Insurance is generally a regulated industry and can be beneficial or can magnify the risks of moral hazard.
+    * Adjusting for fairness comes at the expense of a reduced-allocation of resources to their best uses.
+
+#### Government "Insurance"
+
+* Flood insurance is an example of a government-run 'insurnace' program that encourages people to build, and rebuild, in
+  flood-prone areas, misallocating resources.
 
     * Chapter 14: Stocks, Bonds and Insurance
     * Chapter 15: Special Problems of Time and Risk
+
 * PART V: THE NATIONAL ECONOMY
     * Chapter 16: National Output
     * Chapter 17: Money and the Banking System
