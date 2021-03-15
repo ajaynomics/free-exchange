@@ -135,117 +135,138 @@ Status: summary of principles in progress of being compiled.
             * US jurisdictions with 'living wage' laws have higher unemployment than those that don't
         * economists universally (> 85%) agree about the effects of minimum wage laws on unemployment
             * but minimum wage laws are set by government, facing political considerations
-      * just as a price set below the market level leads to a deterioration of the quality of the product, minimum wage
-        laws deteriorate the quality of the goods and services derived from labour subject to wage controls
-      * minimum wage laws generally have a _differential impact_ on minority groups
-          * _black Americans are impaired by minimum wage laws becuse they enable racists to hire less-productive
-            workers without facing consequences in the market_
-          * without a minimum wage law, racist employers are hurting themselves by allowing their competitors to hire
-            more productive, less-expensive workers
-          * minimum wage laws generally correlate with higher black unemployment
-  * Chapter 12: Special Problems in Labor Markets
-      * Unemployment Statistics
-          * unemployment statistics exclude children, and those who are unemployed by choice, such as housewives and
-            retired individuals, hospital patients, people serving in the military or prison inmates
-          * different countries have different 'full' employment rates depending on composition of the local economy
-          * _transient_ unemployment must be distinguished from _long-term_ unemployment
-          * unemployment due to technological displacement may be beneficial to society beyond immediate frictions
-      * Working Conditions
-          * better working conditions represent a benefit to the employee and form part of their remuneration
-          * therefore, **better working conditions meas less monetary pay**
-          * these initiatives are usually politically driven, _despite_ the economic consequences
-          * liberal economic policies that drive growth are the best way to make improvements _simultaneously_ for
-            workers and consumers
-          * Safety Laws
-              * third-party effects deserve consideration &ndash; there is a role for regulating road safety, mass
-                transit operations, and environmental effects
-              * beyond this, safety laws to protect the consumer represent _increased cost_ and _reduced choice_ for
-                those consumers, who do not have the option to purchase what they may consider a more optimal allocation
-                of resources
-              * 'safety' is a tradeoff consideration, not an objective standard
-          * Child Labor Laws
-              * child labor laws were historically passed to protect a vulnerable group unable to protect their own
-                interests
-              * modern child labor laws are typically union driven to exclude a source of potential competition
-              * rules against unpaid internships, for example, are keeping adolescents out of paying jobs in
-                airconditioned offices
-          * Hours of Work
-              * different countries have different cultures about work and vacation, and it makes it particularly
-                challenging to impose universal standards
-              * higher labor costs translate into reduced investment, reduced employment, and increased consumer costs
-          * Third World Countries
-              * developed countries have better conditions, period &ndash; there is not special reason to scrutinize the
-                lower labor standards in less developed countries
-              * the issue is which policies will allow the workers in poor countries to improve their prospects, rather
-                than 'match' the developed world
-              * wages and working conditions in developing countries improve when liberal economic policies drive
-                competition for local labor
-      * Collective Bargaining
-          * Employer Organizations
-              * historically, it was _employers_ tat organized to control pay and working conditions, similar to
-                baseball today
-              * that there are re-allocations between employers and employees does not mean that the losses to employees
-                are the most important economic effect, which remains efficient allocation on the whole
-              * whether employer-set rates are higher or lower than the market rate, the result is higher unemployment
-                because of the overall increase in inefficiency
-              * the biggest practical issue for these cartels is the incentive for members to break the agreements out
-                of self interest
-          * Labor Unions
-              * artificially higher wages means artifically higher prices to consumers, resulting to inefficient
-                allocation
-              * unions are accountable to their membership, not to those without a job willing to do the job without
-                additional benefits, or to society, that benefits from lower prices
-      * Exploitation
-          * there is no definition and it ultimately turns on a subjective opinion about what people 'deserve'
-          * left to market forces, allocation is driven by the best interest of the collective, not individual
-            subjective whim
-          * business owners face the brunt of losses in economic economic activity, not employees
-          * the real question is which mechanism is best situated to account for individual views on 'exploitation'
-              * in the market, each person votes with their dollars based on their views, and the invisible hand guides
-                the outcome
-              * through government, a small, vocal group coerces the broader population into a less-efficient
-                arrangement that does not reflect the interest of the people
-          * the best defence against exploitation is healthy competition in the marketplace, in which business owners
-            are in competition to hire workers
-          * Job Security
-              * job security rules are intended to reduce unemployment, but by increasing the cost of employment, they
-                increase unemployment
-              * the 'efficiency' of modern capitalism is the chase after what is new and better
-              * 'job-for-life' is not desirable for employees or for society &ndash; churn is a key driver of new ideas
-              * laws (ie, agriculture) that were enacted at a time of food security have long outlasted their usefulness
-                and today represent a subsidy to a political class
-      * Occupational Licensing
-          * licensing requirements are just another cost on labour that reduces employment and increases prices to
-            consumers
-          * legal and medical licensing represent the typical overgrowth of self-regulation into bodies that are
-            glorified unions protecting the interests of its constituencies
-          * whether licensing actually protects the consumers in proportion to their economic misallocation is the real
-            tradeoff question
+        * just as a price set below the market level leads to a deterioration of the quality of the product, minimum
+          wage laws deteriorate the quality of the goods and services derived from labour subject to wage controls
+        * minimum wage laws generally have a _differential impact_ on minority groups
+            * _black Americans are impaired by minimum wage laws becuse they enable racists to hire less-productive
+              workers without facing consequences in the market_
+            * without a minimum wage law, racist employers are hurting themselves by allowing their competitors to hire
+              more productive, less-expensive workers
+            * minimum wage laws generally correlate with higher black unemployment
+    * Chapter 12: Special Problems in Labor Markets
+        * Unemployment Statistics
+            * unemployment statistics exclude children, and those who are unemployed by choice, such as housewives and
+              retired individuals, hospital patients, people serving in the military or prison inmates
+            * different countries have different 'full' employment rates depending on composition of the local economy
+            * _transient_ unemployment must be distinguished from _long-term_ unemployment
+            * unemployment due to technological displacement may be beneficial to society beyond immediate frictions
+        * Working Conditions
+            * better working conditions represent a benefit to the employee and form part of their remuneration
+            * therefore, **better working conditions meas less monetary pay**
+            * these initiatives are usually politically driven, _despite_ the economic consequences
+            * liberal economic policies that drive growth are the best way to make improvements _simultaneously_ for
+              workers and consumers
+            * Safety Laws
+                * third-party effects deserve consideration &ndash; there is a role for regulating road safety, mass
+                  transit operations, and environmental effects
+                * beyond this, safety laws to protect the consumer represent _increased cost_ and _reduced choice_ for
+                  those consumers, who do not have the option to purchase what they may consider a more optimal
+                  allocation of resources
+                * 'safety' is a tradeoff consideration, not an objective standard
+            * Child Labor Laws
+                * child labor laws were historically passed to protect a vulnerable group unable to protect their own
+                  interests
+                * modern child labor laws are typically union driven to exclude a source of potential competition
+                * rules against unpaid internships, for example, are keeping adolescents out of paying jobs in
+                  airconditioned offices
+            * Hours of Work
+                * different countries have different cultures about work and vacation, and it makes it particularly
+                  challenging to impose universal standards
+                * higher labor costs translate into reduced investment, reduced employment, and increased consumer costs
+            * Third World Countries
+                * developed countries have better conditions, period &ndash; there is not special reason to scrutinize
+                  the lower labor standards in less developed countries
+                * the issue is which policies will allow the workers in poor countries to improve their prospects,
+                  rather than 'match' the developed world
+                * wages and working conditions in developing countries improve when liberal economic policies drive
+                  competition for local labor
+        * Collective Bargaining
+            * Employer Organizations
+                * historically, it was _employers_ tat organized to control pay and working conditions, similar to
+                  baseball today
+                * that there are re-allocations between employers and employees does not mean that the losses to
+                  employees are the most important economic effect, which remains efficient allocation on the whole
+                * whether employer-set rates are higher or lower than the market rate, the result is higher unemployment
+                  because of the overall increase in inefficiency
+                * the biggest practical issue for these cartels is the incentive for members to break the agreements out
+                  of self interest
+            * Labor Unions
+                * artificially higher wages means artifically higher prices to consumers, resulting to inefficient
+                  allocation
+                * unions are accountable to their membership, not to those without a job willing to do the job without
+                  additional benefits, or to society, that benefits from lower prices
+        * Exploitation
+            * there is no definition and it ultimately turns on a subjective opinion about what people 'deserve'
+            * left to market forces, allocation is driven by the best interest of the collective, not individual
+              subjective whim
+            * business owners face the brunt of losses in economic economic activity, not employees
+            * the real question is which mechanism is best situated to account for individual views on 'exploitation'
+                * in the market, each person votes with their dollars based on their views, and the invisible hand
+                  guides the outcome
+                * through government, a small, vocal group coerces the broader population into a less-efficient
+                  arrangement that does not reflect the interest of the people
+            * the best defence against exploitation is healthy competition in the marketplace, in which business owners
+              are in competition to hire workers
+            * Job Security
+                * job security rules are intended to reduce unemployment, but by increasing the cost of employment, they
+                  increase unemployment
+                * the 'efficiency' of modern capitalism is the chase after what is new and better
+                * 'job-for-life' is not desirable for employees or for society &ndash; churn is a key driver of new
+                  ideas
+                * laws (ie, agriculture) that were enacted at a time of food security have long outlasted their
+                  usefulness and today represent a subsidy to a political class
+        * Occupational Licensing
+            * licensing requirements are just another cost on labour that reduces employment and increases prices to
+              consumers
+            * legal and medical licensing represent the typical overgrowth of self-regulation into bodies that are
+              glorified unions protecting the interests of its constituencies
+            * whether licensing actually protects the consumers in proportion to their economic misallocation is the
+              real tradeoff question
+
 ## PART IV: TIME AND RISK
+
 ### Chapter 13: Investment
+
 #### Investments
+
 * Investments involve risks, because the future is uncertain, and those risks must be compensated to attract investment.
 * Investments that consumers value attract re-investment, and resources are re-allocated to their most efficient uses.
+
 #### Kinds of Investments
+
 * Human Capital
-  *  Education is an investment in human capital, but not all education is a wise investment.
-  *  In less developed countries, students who are the first in their family to pursue higher education are less likely to pursue economically valuable subject areas because they are also more rigorous, creating a glut of educated people with less econoimcally relevant skills.
-*  Financial Investments
-  *  Financial intermediaries create a market in which consumers can make investments that attract time and risk. Less-developed countries have less-developed financial intermediaries, and resources are allocated less efficiently.
-  *  Financial intermediaries are an easy target for political critics, because their products are complex, and narrative can overwhelm facts easily.
+    * Education is an investment in human capital, but not all education is a wise investment.
+    * In less developed countries, students who are the first in their family to pursue higher education are less likely
+      to pursue economically valuable subject areas because they are also more rigorous, creating a glut of educated
+      people with less econoimcally relevant skills.
+* Financial Investments
+* Financial intermediaries create a market in which consumers can make investments that attract time and risk.
+  Less-developed countries have less-developed financial intermediaries, and resources are allocated less efficiently.
+* Financial intermediaries are an easy target for political critics, because their products are complex, and narrative
+  can overwhelm facts easily.
+
 #### Returns on Investment
-*  "Unearned Income"
-  * Compensation for financial intermediaries has historically been the subject of steretypes and persecution.
-  * Interest is compensation for the risk and delay of waiting for payment, and is as much a value delivered through the supply chain as the product itself.
+
+* "Unearned Income"
+* Compensation for financial intermediaries has historically been the subject of steretypes and persecution.
+* Interest is compensation for the risk and delay of waiting for payment, and is as much a value delivered through the
+  supply chain as the product itself.
 * Investment and Allocation
-  * In a frictionless market, the level of savings and the level of investment would be in equilibrium.
-  * In the real world, with transaction costs, the market is constantly adjusting towards equiibrium.
-  * The interest rate mechanism of the US Federal Reserve System is one level for human ajdustment.
+    * In a frictionless market, the level of savings and the level of investment would be in equilibrium.
+    * In the real world, with transaction costs, the market is constantly adjusting towards equiibrium.
+    * The interest rate mechanism of the US Federal Reserve System is one level for human ajdustment.
+
 #### Speculation
-* Many markets are for products and services that already exist, but there are also many markets for products and services to exist on a future date.
-* Oil futures and other "speculation" are a form of risk management to bring price certainty to the consumer. But the farmer also values certainty in knowing what price they will receive in advance. 
-* Some focus on trading on future risk because they have specialized knowledge and skill that they can apply on behalf of others.
-* **Speculation is not gambling. Speculation is the opposite of gambling.** Speculation is about coping with inherent risk, gambling is about taking a risk.
+
+* Many markets are for products and services that already exist, but there are also many markets for products and
+  services to exist on a future date.
+* Oil futures and other "speculation" are a form of risk management to bring price certainty to the consumer. But the
+  farmer also values certainty in knowing what price they will receive in advance.
+* Some focus on trading on future risk because they have specialized knowledge and skill that they can apply on behalf
+  of others.
+* **Speculation is not gambling. Speculation is the opposite of gambling.** Speculation is about coping with inherent
+  risk, gambling is about taking a risk.
+
 #### Inventories
 
 * Inventories are a substitute for the risk of lack of knowledge of the future.
@@ -300,11 +321,51 @@ Status: summary of principles in progress of being compiled.
 
 #### Government "Insurance"
 
-* Flood insurance is an example of a government-run 'insurnace' program that encourages people to build, and rebuild, in
-  flood-prone areas, misallocating resources.
+* Nationalized flood insurance (USA) is an example of a government-run 'insurance' program that encourages people to
+  build, and rebuild, in flood-prone areas, misallocating resources.
 
-    * Chapter 14: Stocks, Bonds and Insurance
-    * Chapter 15: Special Problems of Time and Risk
+### Chapter 15: Special Problems of Time and Risk
+
+* Risk and uncertainty are inherent in life, and economics can help managing risk.
+
+#### Uncertainty
+
+* Uncertainty is a different form of contingency than risk, which _limits_ human ability to manage risk.
+* Risk is whether the stock price goes up and down, uncertainty is whether government will change the rules of the
+  market.
+
+#### Time and Money
+
+* The time value of money means slow moving bureaucracies will require more time and effort to navigate, resulting in
+  higher prices.
+* Regulations such as environmental and food safety regulations have an important purpose, but at the cost of time, and
+  money.
+
+#### Economic Adjustments
+
+* Because economic consequences take time to manifest, politicians can build careers by creating current benefits from
+  future costs.
+* The commodities 'speculator' who is able to better bear the risk of a pool of different assets is also providing the
+  producer with a means for economic adjustment.
+
+#### Time and Politics
+
+* Politics is largely about short-term adjustments where the sustainable, long-term adjustment is bitter medicine.
+* In addition to misallocating resources, politically driven decisions such as price controls also break the signalling
+  function of the market and change behaviour of market actors.
+* "Rustbelts" have job losses despite a thriving economy, because of structural changes in the market. Focusing on the
+  lost jobs, at the expense of transition, simply delays the inevitable to the expense of the collective.
+
+#### Time and Foresight
+
+* Similarly, politicians like to interfere with the gains of investors that are politically characterized as windfalls,
+  whereas they reflect the exercise of foresight by the investor, and should be encouraged.
+* Individuals and businesses have real foresight, even if it is imperfect and leads to hoarding toilet paper at strange
+  times in history.
+* Too many social and economic policies are discussed in terms of the goals they proclaim, rather than the incentives
+  they create.
+
+#### To complete:
 
 * PART V: THE NATIONAL ECONOMY
     * Chapter 16: National Output
