@@ -365,14 +365,63 @@ Status: summary of principles in progress of being compiled.
 * Too many social and economic policies are discussed in terms of the goals they proclaim, rather than the incentives
   they create.
 
+## PART V: THE NATIONAL ECONOMY
+
+### Chapter 16: National Output
+
+* The basic principles applicable to a particular market apply to the economy as a whole: prices and wage rates
+  fluctuate.
+
+#### The Fallacy of Composition
+
+* But one should not assume that policy applied to one market will apply the same way to the economy as a whole.
+    * ie job losses in one sector during an economic boom
+* The fallacy of composition ignores interactions among individual actors.
+
+#### Output and Demand
+
+* The total real income of everyone in the national economy is the same thing as total national output.
+* Concerns that an economy is producing 'too much' to absorb misplaced that supply and prices adjust to demand.
+
+### Measuring National Output
+
+* Gross Domestic Product (GDP) is the sum total of everything produced within a nation's borders.
+* GDP is a measure of 'income', the flow of resources in a particular period, rather than 'wealth'
+
+#### The Changing Composition of Output
+
+* Cars of twenty years ago are very different in substance from cars of today, so comparing them as equivalent is
+  problematic.
+* Statistical adjustments have a built-in inflationary bias, because cost of living indicies focus on commonly-bought
+  goods.
+* Technology products in particular have unstable prices.
+
+#### International Comparisons
+
+* Because international economies are differently constituted, comparisons are challenging, because they produce
+  products at different scales and quality levels.
+* The very different ages and other demographics in different countries is a particular example of how demand for
+  products and services can vary sharply.
+* Governments that interfere with market exchange rates further create complexities for analysis.
+* Per-capita GDP remains a reasonable, if crude, proxy for wealth.
+
+#### Statistical Trends
+
+* Statistics can be misused because the measurement period can skew inferences.
+* Statistics are only reliable if the underlying data is a reasonable proxy. In developing countries with large informal
+  economies, official statistics are not representative.
+* When women enter the workforce, for example, domestic activity that was not previously measured (ie childcare) becomes
+  measured.
+* Developing countries with lowering levels of infant mortality will have higher levels of poverty due to the increase
+  in surviving children, and may falsely signal stagnation.
+
 #### To complete:
 
-* PART V: THE NATIONAL ECONOMY
-    * Chapter 16: National Output
     * Chapter 17: Money and the Banking System
     * Chapter 18: Government Functions
     * Chapter 19: Government Finance
     * Chapter 20: Special Problems in the National Economy
+
 * PART VI: THE INTERNATIONAL ECONOMY
     * Chapter 21: International Trade
     * Chapter 22: International Transfers of Wealth
